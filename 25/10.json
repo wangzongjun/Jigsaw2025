@@ -1,11 +1,4 @@
 {
-    "1": {
-        "N": "Easter",
-        "S": null,
-        "C": 194,
-        "R": "https://raw.githubusercontent.com/wangzongjun/Jigsaw2025/refs/heads/main/Easter/",
-        "T": "https://raw.githubusercontent.com/wangzongjun/Jigsaw2025/refs/heads/main/Thumbnail/Easter.webp"
-    },
     "2": {
         "N": "Dream",
         "S": null,
@@ -30,7 +23,7 @@
     "5": {
         "N": "New",
         "S": null,
-        "C": "54",
+        "C": "17",
         "R": "https://raw.githubusercontent.com/wangzongjun/Jigsaw2025/refs/heads/main/New/"
     }
 }
